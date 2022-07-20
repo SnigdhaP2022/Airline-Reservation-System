@@ -1,0 +1,2 @@
+# Airline-Reservation-System
+The Airline Reservation System In Java also includes timetable and fare information, as well as a information of passenger reservations and tickets. This Simple Airline Reservation System Project In Java is useful for learning new skills and practicing Java Desktop Application development. This project is quite useful, and the concept and logic of the project are simple to grasp.
